@@ -1,0 +1,203 @@
+Name,Opp.,Berry,Karabell,Yates,Cockcroft,Clay,Bell,Avg,Position
+"1. Tom Brady, NE",@Det,2,1,1,3,1,1,1.5,QB
+"2. Patrick Mahomes, KC",SF,1,2,3,1,3,3,2.2,QB
+"3. Aaron Rodgers, GB  Q",@Wsh,3,3,2,5,2,5,3.3,QB
+"4. Cam Newton, Car",Cin,4,4,7,7,5,6,5.5,QB
+"5. Kirk Cousins, Min",Buf,5,5,8,4,13,4,6.5,QB
+"6. Drew Brees, NO",@Atl,7,6,10,2,14,2,6.8,QB
+"7. Carson Wentz, Phi",Ind,8,7,6,14,6,9,8.3,QB
+"7. Ryan Fitzpatrick, TB",Pit,6,10,5,12,4,13,8.3,QB
+"9. Deshaun Watson, Hou",NYG,9,9,11,9,9,8,9.2,QB
+"10. Matthew Stafford, Det",NE,10,11,12,10,10,10,10.5,QB
+"11. Russell Wilson, Sea",Dal,14,8,13,11,8,14,11.3,QB
+"11. Jimmy Garoppolo, SF",@KC,11,12,9,8,11,17,11.3,QB
+"13. Ben Roethlisberger, Pit",@TB,13,16,4,6,12,20,11.8,QB
+"14. Alex Smith, Wsh",GB,12,13,16,17,7,18,13.8,QB
+"15. Matt Ryan, Atl",NO,18,17,15,13,15,7,14.2,QB
+"16. Andrew Luck, Ind",@Phi,17,15,14,15,16,12,14.8,QB
+"17. Philip Rivers, LAC",@LAR,20,14,17,16,24,11,17,QB
+"18. Andy Dalton, Cin",@Car,16,21,19,20,17,15,18,QB
+"19. Jared Goff, LAR",LAC,21,18,18,18,20,16,18.5,QB
+"20. Blake Bortles, Jax",Ten,15,19,24,21,19,19,19.5,QB
+"21. Tyrod Taylor, Cle",NYJ,19,20,21,23,21,21,20.8,QB
+"22. Dak Prescott, Dal",@Sea,24,22,22,19,22,24,22.2,QB
+"23. Mitchell Trubisky, Chi",@Ari,22,24,NR,22,18,23,22.5,QB
+"24. Derek Carr, Oak",@Mia,23,25,20,25,25,25,23.8,QB
+"25. Case Keenum, Den  Q",@Bal,25,23,25,NR,NR,NR,25.2,QB
+"25. Ryan Tannehill, Mia",Oak,NR,NR,NR,24,23,NR,25.2,QB
+"27. Sam Darnold, NYJ",@Cle,NR,NR,NR,NR,NR,22,25.3,QB
+"28. Joe Flacco, Bal",Den,NR,NR,23,NR,NR,NR,25.5,QB
+"1. Todd Gurley II, LAR",LAC,2,1,1,1,2,1,1.3,RB
+"2. Alvin Kamara, NO",@Atl,1,2,2,2,1,3,1.8,RB
+"3. Ezekiel Elliott, Dal",@Sea,3,3,3,3,3,4,3.2,RB
+"4. Saquon Barkley, NYG",@Hou,4,4,4,6,5,7,5,RB
+"5. Christian McCaffrey, Car",Cin,8,8,5,5,6,5,6.2,RB
+"6. Kareem Hunt, KC",SF,5,7,8,8,9,2,6.5,RB
+"7. Melvin Gordon, LAC",@LAR,7,5,6,4,13,8,7.2,RB
+"8. James Conner, Pit",@TB,6,11,7,7,7,10,8,RB
+"9. Dalvin Cook, Min  Q",Buf,9,9,10,10,8,6,8.7,RB
+"10. David Johnson, Ari",Chi,17,6,9,9,4,11,9.3,RB
+"11. Leonard Fournette, Jax  Q",Ten,11,10,12,16,11,9,11.5,RB
+"12. Jordan Howard, Chi",@Ari,10,13,13,11,12,12,11.8,RB
+"12. Tevin Coleman, Atl",NO,12,12,11,13,10,13,11.8,RB
+"14. Kenyan Drake, Mia",Oak,13,14,14,14,15,15,14.2,RB
+"15. Giovani Bernard, Cin  Q",@Car,14,15,15,17,16,17,15.7,RB
+"16. Lamar Miller, Hou",NYG,18,16,17,12,14,20,16.2,RB
+"17. Chris Thompson, Wsh",GB,16,17,16,19,17,16,16.8,RB
+"18. Matt Breida, SF",@KC,15,20,21,21,21,19,19.5,RB
+"19. Alex Collins, Bal  Q",Den,23,19,18,18,22,21,20.2,RB
+"20. Carlos Hyde, Cle",NYJ,19,21,22,20,18,29,21.5,RB
+"21. Dion Lewis, Ten",@Jax,27,18,19,24,23,22,22.2,RB
+"22. Marshawn Lynch, Oak  Q",@Mia,22,25,24,22,20,25,23,RB
+"23. Adrian Peterson, Wsh",GB,20,23,28,25,19,27,23.7,RB
+"24. James White, NE",@Det,28,24,20,27,24,23,24.3,RB
+"25. Phillip Lindsay, Den",@Bal,21,28,26,30,25,18,24.7,RB
+"26. Jay Ajayi, Phi  Q",Ind,25,22,23,15,NR,14,25,RB
+"27. Isaiah Crowell, NYJ",@Cle,26,26,25,23,29,34,27.2,RB
+"28. Rex Burkhead, NE",@Det,33,29,27,29,31,31,30,RB
+"29. Peyton Barber, TB",Pit,38,31,34,26,26,35,31.7,RB
+"30. Bilal Powell, NYJ",@Cle,29,38,33,36,27,30,32.2,RB
+"31. LeSean McCoy, Buf  Q",@Min,24,30,29,31,30,NR,32.5,RB
+"32. Royce Freeman, Den",@Bal,34,33,31,34,40,24,32.7,RB
+"33. Derrick Henry, Ten  Q",@Jax,40,27,30,32,41,28,33,RB
+"34. Chris Carson, Sea",Dal,39,35,37,33,28,32,34,RB
+"35. Jamaal Williams, GB",@Wsh,32,34,35,28,36,43,34.7,RB
+"36. Tarik Cohen, Chi",@Ari,46,36,32,39,32,33,36.3,RB
+"37. Alfred Morris, SF",@KC,31,37,39,40,34,41,37,RB
+"38. Sony Michel, NE",@Det,30,45,42,35,39,42,38.8,RB
+"39. Corey Clement, Phi",Ind,36,32,38,42,35,NR,39,RB
+"40. Kerryon Johnson, Det",NE,42,40,45,38,42,36,40.5,RB
+"41. Javorius Allen, Bal",Den,43,46,36,43,33,47,41.3,RB
+"42. Duke Johnson Jr., Cle",NYJ,NR,42,40,44,38,40,42.5,RB
+"43. Austin Ekeler, LAC",@LAR,37,41,43,47,50,39,42.8,RB
+"44. Rashaad Penny, Sea",Dal,49,39,46,50,44,38,44.3,RB
+"44. Aaron Jones, GB",@Wsh,NR,44,49,45,NR,26,44.3,RB
+"46. Theo Riddick, Det",NE,35,47,NR,NR,37,46,44.5,RB
+"47. T.J. Yeldon, Jax  Q",Ten,50,43,50,41,NR,37,45.3,RB
+"48. Latavius Murray, Min",Buf,41,50,48,37,46,NR,45.5,RB
+"49. Jordan Wilkins, Ind",@Phi,44,49,41,49,43,48,45.7,RB
+"50. Marlon Mack, Ind  Q",@Phi,NR,48,47,46,49,44,47.5,RB
+"51. Jalen Richard, Oak",@Mia,47,NR,NR,NR,45,NR,49.3,RB
+"52. Frank Gore, Mia",Oak,45,NR,NR,NR,48,NR,49.5,RB
+"53. Nyheim Hines, Ind",@Phi,NR,NR,44,NR,NR,NR,49.8,RB
+"53. Chase Edmonds, Ari",Chi,48,NR,NR,NR,47,NR,49.8,RB
+"55. Ty Montgomery, GB",@Wsh,NR,NR,NR,NR,NR,45,50,RB
+"56. C.J. Anderson, Car",Cin,NR,NR,NR,48,NR,49,50.2,RB
+"57. Nick Chubb, Cle",NYJ,NR,NR,NR,NR,NR,50,50.8,RB
+"1. Antonio Brown, Pit",@TB,2,1,1,1,1,2,1.3,WR
+"2. Michael Thomas, NO",@Atl,1,2,2,2,2,1,1.7,WR
+"3. Julio Jones, Atl  Q",NO,5,3,3,3,3,4,3.5,WR
+"4. DeAndre Hopkins, Hou  Q",NYG,3,4,4,5,5,3,4,WR
+"5. Odell Beckham Jr., NYG",@Hou,4,5,5,4,4,5,4.5,WR
+"6. Tyreek Hill, KC",SF,6,6,8,7,7,8,7,WR
+"7. A.J. Green, Cin",@Car,7,9,7,6,6,9,7.3,WR
+"8. Mike Evans, TB",Pit,8,8,6,9,9,10,8.3,WR
+"9. Keenan Allen, LAC",@LAR,12,7,9,11,8,6,8.8,WR
+"10. Adam Thielen, Min",Buf,9,11,13,8,11,7,9.8,WR
+"11. Davante Adams, GB",@Wsh,13,10,11,12,10,12,11.3,WR
+"12. Stefon Diggs, Min",Buf,11,12,10,13,14,11,11.8,WR
+"13. JuJu Smith-Schuster, Pit",@TB,10,15,14,10,13,16,13,WR
+"14. T.Y. Hilton, Ind  Q",@Phi,17,13,12,15,12,13,13.7,WR
+"15. Jarvis Landry, Cle  Q",NYJ,19,14,15,14,22,14,16.3,WR
+"16. Golden Tate, Det",NE,18,16,16,16,15,23,17.3,WR
+"17. Allen Robinson, Chi",@Ari,16,17,22,22,21,15,18.8,WR
+"18. Nelson Agholor, Phi",Ind,14,27,19,19,18,18,19.2,WR
+"19. Amari Cooper, Oak",@Mia,21,20,17,18,19,21,19.3,WR
+"20. Emmanuel Sanders, Den",@Bal,15,21,20,17,20,24,19.5,WR
+"21. Larry Fitzgerald, Ari  Q",Chi,25,19,18,24,17,19,20.3,WR
+"22. Demaryius Thomas, Den",@Bal,24,18,24,20,24,17,21.2,WR
+"23. Brandin Cooks, LAR",LAC,22,29,23,21,23,20,23,WR
+"24. Marvin Jones Jr., Det",NE,27,22,27,23,16,32,24.5,WR
+"24. Kenny Golladay, Det",NE,20,26,25,26,25,25,24.5,WR
+"26. Chris Hogan, NE",@Det,23,23,21,25,34,22,24.7,WR
+"27. Quincy Enunwa, NYJ",@Cle,26,31,32,29,29,26,28.8,WR
+"28. Randall Cobb, GB",@Wsh,30,25,36,28,28,28,29.2,WR
+"29. Cooper Kupp, LAR",LAC,28,32,31,27,26,36,30,WR
+"30. Robert Woods, LAR",LAC,32,39,29,31,27,29,31.2,WR
+"31. Michael Crabtree, Bal",Den,38,24,28,32,44,27,32.2,WR
+"31. Devin Funchess, Car",Cin,31,28,26,37,37,34,32.2,WR
+"33. Marquise Goodwin, SF  Q",@KC,40,34,30,30,31,40,34.2,WR
+"34. Will Fuller V, Hou  Q",NYG,29,33,37,40,30,37,34.3,WR
+"35. Keelan Cole, Jax",Ten,35,37,39,39,32,30,35.3,WR
+"36. Corey Davis, Ten",@Jax,NR,30,34,36,33,31,35.8,WR
+"37. DeSean Jackson, TB",Pit,33,40,33,34,43,38,36.8,WR
+"38. Kenny Stills, Mia",Oak,37,36,44,33,38,39,37.8,WR
+"39. Sammy Watkins, KC",SF,39,41,35,38,36,42,38.5,WR
+"40. Pierre Garcon, SF",@KC,34,42,42,35,35,44,38.7,WR
+"41. Josh Gordon, NE  Q",@Det,42,35,43,NR,40,33,40.7,WR
+"42. Tyler Lockett, Sea",Dal,41,47,40,41,41,47,42.8,WR
+"43. John Brown, Bal",Den,36,44,38,42,NR,NR,43.7,WR
+"44. Robby Anderson, NYJ",@Cle,47,38,NR,44,46,41,44.5,WR
+"45. Chris Godwin, TB",Pit,NR,46,41,43,50,43,45.7,WR
+"46. Jamison Crowder, Wsh",GB,44,43,45,45,49,49,45.8,WR
+"47. Kelvin Benjamin, Buf  Q",@Min,NR,45,49,NR,NR,35,47,WR
+"48. Tyler Boyd, Cin",@Car,43,NR,NR,NR,42,NR,48.2,WR
+"49. Ted Ginn Jr., NO  Q",@Atl,45,49,46,NR,NR,NR,48.8,WR
+"49. Geronimo Allison, GB",@Wsh,46,NR,50,NR,45,50,48.8,WR
+"51. Cole Beasley, Dal",@Sea,NR,NR,NR,NR,39,NR,49,WR
+"52. Sterling Shepard, NYG",@Hou,NR,48,NR,50,NR,45,49.3,WR
+"53. Brandon Marshall, Sea",Dal,49,NR,47,NR,48,NR,49.5,WR
+"54. Mohamed Sanu, Atl",NO,NR,50,NR,NR,47,48,49.7,WR
+"55. Jordy Nelson, Oak",@Mia,NR,NR,NR,NR,NR,46,50.2,WR
+"55. Phillip Dorsett, NE",@Det,NR,NR,NR,46,NR,NR,50.2,WR
+"57. Danny Amendola, Mia",Oak,NR,NR,NR,47,NR,NR,50.3,WR
+"58. Paul Richardson, Wsh  Q",GB,NR,NR,NR,48,NR,NR,50.5,WR
+"58. Antonio Callaway, Cle",NYJ,48,NR,NR,NR,NR,NR,50.5,WR
+"58. Ryan Grant, Ind",@Phi,NR,NR,48,NR,NR,NR,50.5,WR
+"61. Mike Williams, LAC",@LAR,NR,NR,NR,49,NR,NR,50.7,WR
+"62. Dede Westbrook, Jax",Ten,50,NR,NR,NR,NR,NR,50.8,WR
+"1. Rob Gronkowski, NE",@Det,1,1,1,1,1,1,1,TE
+"2. Travis Kelce, KC",SF,2,2,2,2,2,2,2,TE
+"3. Zach Ertz, Phi",Ind,3,3,3,3,3,3,3,TE
+"4. Jordan Reed, Wsh",GB,6,4,5,4,4,4,4.5,TE
+"5. Jimmy Graham, GB",@Wsh,4,5,4,6,6,8,5.5,TE
+"6. Evan Engram, NYG  Q",@Hou,7,6,7,5,7,5,6.2,TE
+"7. Kyle Rudolph, Min",Buf,5,8,6,8,8,6,6.8,TE
+"8. Trey Burton, Chi",@Ari,10,7,9,7,10,7,8.3,TE
+"9. George Kittle, SF",@KC,8,9,8,9,9,9,8.7,TE
+"10. Jack Doyle, Ind  Q",@Phi,9,10,14,10,5,17,10.8,TE
+"11. Jared Cook, Oak",@Mia,13,11,10,11,15,10,11.7,TE
+"12. David Njoku, Cle",NYJ,12,13,11,12,13,11,12,TE
+"13. O.J. Howard, TB",Pit,11,12,12,13,11,15,12.3,TE
+"14. Austin Seferian-Jenkins, Jax  Q",Ten,19,15,16,15,12,14,15.2,TE
+"15. Eric Ebron, Ind",@Phi,16,17,13,14,19,18,16.2,TE
+"16. Tyler Eifert, Cin",@Car,17,14,17,16,20,16,16.7,TE
+"17. Austin Hooper, Atl",NO,22,18,19,19,16,12,17.7,TE
+"18. Benjamin Watson, NO",@Atl,21,16,18,17,17,19,18,TE
+"19. Will Dissly, Sea",Dal,15,19,15,24,18,21,18.7,TE
+"20. Jesse James, Pit",@TB,14,22,20,21,NR,13,19.3,TE
+"21. Ricky Seals-Jones, Ari",Chi,20,21,22,18,14,22,19.5,TE
+"22. Charles Clay, Buf",@Min,NR,23,23,20,23,20,22.5,TE
+"22. Antonio Gates, LAC  Q",@LAR,18,20,21,25,NR,25,22.5,TE
+"24. Jake Butt, Den",@Bal,23,NR,24,22,NR,NR,24.5,TE
+"25. Vance McDonald, Pit",@TB,NR,24,25,23,24,NR,24.7,TE
+"26. Ian Thomas, Car",Cin,25,25,NR,NR,21,NR,24.8,TE
+"27. Mike Gesicki, Mia",Oak,24,NR,NR,NR,NR,23,25.2,TE
+"28. Ryan Griffin, Hou  Q",NYG,NR,NR,NR,NR,22,NR,25.3,TE
+"29. Cameron Brate, TB",Pit,NR,NR,NR,NR,25,24,25.5,TE
+1. Minnesota Vikings,Buf,1,1,1,1,1,3,1.3,DST
+2. Jacksonville Jaguars,Ten,2,2,2,2,2,1,1.8,DST
+3. Chicago Bears,@Ari,3,5,3,3,3,2,3.2,DST
+4. Houston Texans,NYG,4,6,4,4,7,6,5.2,DST
+5. Philadelphia Eagles,Ind,5,3,7,6,8,4,5.5,DST
+6. Baltimore Ravens,Den,7,4,5,5,13,7,6.8,DST
+7. Los Angeles Rams,LAC,8,7,6,8,12,5,7.7,DST
+7. Cleveland Browns,NYJ,6,9,10,7,4,10,7.7,DST
+9. Denver Broncos,@Bal,11,10,8,9,14,8,10,DST
+10. New York Jets,@Cle,9,13,11,12,6,16,11.2,DST
+11. New England Patriots,@Det,19,8,14,11,21,9,13.7,DST
+12. Carolina Panthers,Cin,17,12,12,10,22,14,14.5,DST
+13. Dallas Cowboys,@Sea,10,20,16,15,5,24,15,DST
+13. Miami Dolphins,Oak,14,17,15,16,11,17,15,DST
+15. Tennessee Titans,@Jax,20,14,9,14,23,12,15.3,DST
+16. Cincinnati Bengals,@Car,12,24,18,20,9,15,16.3,DST
+17. New Orleans Saints,@Atl,22,11,13,23,28,13,18.3,DST
+18. Seattle Seahawks,Dal,15,23,22,13,16,23,18.7,DST
+19. Green Bay Packers,@Wsh,18,21,19,17,19,20,19,DST
+20. Arizona Cardinals,Chi,13,26,20,19,15,25,19.7,DST
+20. Washington Redskins,GB,16,18,29,27,10,18,19.7,DST
+22. Los Angeles Chargers,@LAR,21,22,23,18,29,11,20.7,DST
+22. Pittsburgh Steelers,@TB,27,15,17,21,25,19,20.7,DST
+24. Atlanta Falcons,NO,25,19,21,25,26,22,23,DST
+25. Kansas City Chiefs,SF,26,25,27,26,17,26,24.5,DST
+26. Oakland Raiders,@Mia,23,28,24,24,20,29,24.7,DST
